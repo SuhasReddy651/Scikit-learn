@@ -1,2 +1,2 @@
-# Scikit-learn
-Scikit Learn Module's Implementations
+# Scikit-learn 🖥️
+<p>Scikit Learn Module's Implementations</p>
